@@ -10,6 +10,7 @@ public class GitTest1 {
         int i = 10;
         i++;
         System.out.println(i);
+        System.out.println(i+11);
     }
 
 }
