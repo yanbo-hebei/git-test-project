@@ -6,4 +6,10 @@ public class GitTest1 {
         System.out.println("hello,git project!!!!!!");
     }
 
+    public void test(){
+        int i = 10;
+        i++;
+        System.out.println(i);
+    }
+
 }
